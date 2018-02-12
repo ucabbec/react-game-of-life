@@ -1,1 +1,0 @@
-# react-game-of-life
